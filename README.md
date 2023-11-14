@@ -27,22 +27,40 @@ Welcome to the Oasis Infobyte Internship Calculator Project! This project is des
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/KiranGangoor0301/OIBSI.git
-2.cd OIBSIP
+   ```
 
-3.npm install
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd OIBSI
+   ```
 
-4.npm start
+3. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the Application:**
+   ```bash
+   npm start
+   ```
+
+   Access the calculator in your web browser at `http://localhost:3000` (or the specified port).
 
 ## Usage
-Open the calculator in your web browser.
-Perform calculations using the provided interface.
-Explore advanced features if applicable.
-View and track calculation history.
-Contributing
+
+1. Open the calculator in your web browser.
+2. Perform calculations using the provided interface.
+3. Explore advanced features if applicable.
+4. View and track calculation history.
+
+## Contributing
+
 We welcome contributions! If you'd like to contribute to the project, please follow these guidelines:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and submit a pull request.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and submit a pull request.
+
+
 
 
