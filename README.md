@@ -33,7 +33,7 @@ Welcome to the Oasis Infobyte Internship Calculator Project! This project is des
 
 4.npm start
 
-Usage
+## Usage
 Open the calculator in your web browser.
 Perform calculations using the provided interface.
 Explore advanced features if applicable.
